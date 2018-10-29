@@ -1,6 +1,8 @@
 # Screen Saver
 Using c#(.NET Framework) to build.
+
 Press any key to stop the program.
+
 Screenshot:
 ![alt text](https://github.com/OrangeYi/MyScreenSaver/raw/master/screenshot.png "INTERFACE")
 
